@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  :sunglasses: A curated list of awesome resources for [Kong API Gateway](https://konghq.com/)
+  :sunglasses: A curated list of awesome resources for Kong API Gateway
 </p>
 
 <div align="center">
@@ -21,6 +21,7 @@
 
 <br />
 
+**[Kong](https://konghq.com/)** is the world's most popular open source microservice API Gateway. Kong is powered by the battle-tested tech of NGINX and Cassandra with focus on scalability, high performance and reliability.
 
 
 ## Contents
