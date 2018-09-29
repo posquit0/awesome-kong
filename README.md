@@ -1,4 +1,26 @@
-# Awesome Kong
+<div align="center">
+  <a href="https://github.com/posquit0/awesome-kong" title="Awesome Kong">
+    <img width="250" src="media/kong.png" alt="Awesome Kong">
+  </a>
+  <br />
+  <h1>Awesome Kong</h1>
+</div>
+
+<p align="center">
+  :sunglasses: A curated list of awesome resources for [Kong API Gateway](https://konghq.com/)
+</p>
+
+<div align="center">
+  <a href="https://awesome.re">
+		<img src="https://awesome.re/badge.svg" alt="Awesome">
+	</a>
+  <a href="https://github.com/ellerbrock/open-source-badge/">
+    <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+  </a>
+</div>
+
+<br />
+
 
 
 ## Contents
