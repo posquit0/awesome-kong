@@ -49,7 +49,8 @@
 
 ### Articles
 
-- To be updated
+- [Experiences with the Kong API Gateway](https://blog.cloudboost.io/experiences-with-the-kong-api-gateway-2e2d786b4d00) *by Grig Gheorghiu*
+- [An Introduction to Kong](https://www.baeldung.com/kong) *by baeldung*
 
 ### Books
 
