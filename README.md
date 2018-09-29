@@ -27,15 +27,21 @@
 ## Contents
 
 * [Custom Plugins](#custom-plugins)
+  * [Auth Plugins](#auth-plugins)
 * [Resources](#resources)
   * [Articles](#articles)
   * [Books](#books)
   * [Blogs](#blogs)
+  * [Distributions](#distributions)
   * [Tools](#tools)
   * [Community](#community)
 
 
 ## Custom Plugins
+
+### Auth Plugins
+
+- [Kong OpenID Connect](https://github.com/nokia/kong-oidc) - Plugin for Kong implementing the OpenID Connect Relying Party (RP) functionality
 
 
 ## Resources
@@ -51,6 +57,15 @@
 ### Blogs
 
 - [Kong Blog](https://konghq.com/blog/)
+
+### Distributions
+
+- [Homebrew](https://github.com/Kong/homebrew-kong) - Homebrew tap for Kong
+- [Vagrant](https://github.com/Kong/kong-vagrant) - Vagrantfile for Kong testing and development
+- [Docker](https://github.com/Kong/docker-kong) - Docker distribution for Kong
+- [Kubernetes](https://github.com/Kong/kong-dist-kubernetes) - Kubernetes managed Kong cluster
+- [AWS Cloudformation](https://github.com/Kong/kong-dist-cloudformation) - This CloudFormation template helps you model and set up Kong's resources in AWS easily
+- [Heroku](https://github.com/heroku/heroku-kong) - Deploy Kong Community Edition clusters to Heroku Common Runtime and Private Spaces using the Kong buildpack
 
 ### Tools
 
