@@ -26,6 +26,38 @@
 
 ## Contents
 
+* [Custom Plugins](#custom-plugins)
+* [Resources](#resources)
+  * [Articles](#articles)
+  * [Books](#books)
+  * [Blogs](#blogs)
+  * [Community](#community)
+
+
+## Custom Plugins
+
+
+## Resources
+
+### Articles
+
+- To be updated
+
+### Books
+
+- [Kong: Becoming a King of API Gateways](https://bleedingedgepress.com/product/kong-becoming-king-api-gateways/)
+
+### Blogs
+
+- [Kong Blog](https://konghq.com/blog/)
+
+### Community
+
+- [Kong Nation](https://discuss.konghq.com/)
+- [`#kong` on Freenode](http://webchat.freenode.net/?channels=kong)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/kong)
+- [Meetup](https://www.meetup.com/topics/kong/all/)
+
 
 ## Self Promotion
 
