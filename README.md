@@ -60,6 +60,7 @@
 
 - [Microservices Orchestration with Kong, Galileo & Gelato](https://www.youtube.com/watch?v=brsIQgafg-c) *by Ahmad Nassri*
 - [API Gateway Pattern & Kong in a Microservices World](https://www.youtube.com/watch?v=OUUiS28hZuw) *by Marco Palladino*
+- [API & Microservices Management with Kong](https://www.youtube.com/watch?v=S6CeWL2qvl4) *by Ahmad Nassri*
 
 ### Blogs
 
@@ -79,6 +80,7 @@
 - [Konga](https://github.com/pantsel/konga) - More than just another GUI to Kong Admin API
 - [Kong Dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
 - [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) - The Kong Terraform Provider tested against real Kong
+- [Kongfig](https://github.com/mybuilder/kongfig) - Declarative configuration for Kong
 
 ### Community
 
