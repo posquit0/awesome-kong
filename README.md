@@ -31,6 +31,7 @@
 * [Resources](#resources)
   * [Articles](#articles)
   * [Books](#books)
+  * [Videos](#videos)
   * [Blogs](#blogs)
   * [Distributions](#distributions)
   * [Tools](#tools)
@@ -53,6 +54,11 @@
 ### Books
 
 - [Kong: Becoming a King of API Gateways](https://bleedingedgepress.com/product/kong-becoming-king-api-gateways/)
+
+### Videos
+
+- [Microservices Orchestration with Kong, Galileo & Gelato](https://www.youtube.com/watch?v=brsIQgafg-c) *by Ahmad Nassri*
+- [API Gateway Pattern & Kong in a Microservices World](https://www.youtube.com/watch?v=OUUiS28hZuw) *by Marco Palladino*
 
 ### Blogs
 
