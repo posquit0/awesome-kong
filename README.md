@@ -31,6 +31,7 @@
   * [Articles](#articles)
   * [Books](#books)
   * [Blogs](#blogs)
+  * [Tools](#tools)
   * [Community](#community)
 
 
@@ -50,6 +51,11 @@
 ### Blogs
 
 - [Kong Blog](https://konghq.com/blog/)
+
+### Tools
+
+- [Konga](https://github.com/pantsel/konga) - More than just another GUI to Kong Admin API
+- [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) - The Kong Terraform Provider tested against real Kong
 
 ### Community
 
