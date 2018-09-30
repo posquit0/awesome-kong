@@ -43,6 +43,7 @@
 ### Auth Plugins
 
 - [Kong OpenID Connect](https://github.com/nokia/kong-oidc) - Plugin for Kong implementing the OpenID Connect Relying Party (RP) functionality
+- [Kong External OAuth 2.0](https://github.com/mogui/kong-external-oauth) - Use an external OAuth 2.0 provider to protect your API
 
 
 ## Resources
