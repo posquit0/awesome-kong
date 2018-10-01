@@ -69,10 +69,11 @@
 
 ### Distributions
 
-- [Homebrew](https://github.com/Kong/homebrew-kong) - Homebrew tap for Kong
-- [Vagrant](https://github.com/Kong/kong-vagrant) - Vagrantfile for Kong testing and development
+- [Homebrew](https://github.com/Kong/homebrew-kong) - Homebrew Formula for Kong
+- [Vagrant](https://github.com/Kong/kong-vagrant) - Vagrantfile for provisioning a development ready environment for Kong
 - [Docker](https://github.com/Kong/docker-kong) - Docker distribution for Kong
 - [Kubernetes](https://github.com/Kong/kong-dist-kubernetes) - Kubernetes managed Kong cluster
+- [Kubernetes Ingress Controller](https://github.com/Kong/kubernetes-ingress-controller) - Use Kong for Kubernetes Ingress
 - [AWS Cloudformation](https://github.com/Kong/kong-dist-cloudformation) - This CloudFormation template helps you model and set up Kong's resources in AWS easily
 - [Heroku](https://github.com/heroku/heroku-kong) - Deploy Kong Community Edition clusters to Heroku Common Runtime and Private Spaces using the Kong buildpack
 
