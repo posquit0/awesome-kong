@@ -76,8 +76,8 @@
 
 ### Articles
 
-- [Experiences with the Kong API Gateway](https://blog.cloudboost.io/experiences-with-the-kong-api-gateway-2e2d786b4d00) *by Grig Gheorghiu*
-- [An Introduction to Kong](https://www.baeldung.com/kong) *by baeldung*
+- [Experiences with the Kong API Gateway](https://blog.cloudboost.io/experiences-with-the-kong-api-gateway-2e2d786b4d00) by *Grig Gheorghiu*
+- [An Introduction to Kong](https://www.baeldung.com/kong) by *baeldung*
 
 ### Books
 
@@ -85,9 +85,9 @@
 
 ### Videos
 
-- [Microservices Orchestration with Kong, Galileo & Gelato](https://www.youtube.com/watch?v=brsIQgafg-c) *by Ahmad Nassri*
-- [API Gateway Pattern & Kong in a Microservices World](https://www.youtube.com/watch?v=OUUiS28hZuw) *by Marco Palladino*
-- [API & Microservices Management with Kong](https://www.youtube.com/watch?v=S6CeWL2qvl4) *by Ahmad Nassri*
+- [Microservices Orchestration with Kong, Galileo & Gelato](https://www.youtube.com/watch?v=brsIQgafg-c) by *[Ahmad Nassri](https://github.com/ahmadnassri)*
+- [API Gateway Pattern & Kong in a Microservices World](https://www.youtube.com/watch?v=OUUiS28hZuw) by *[Marco Palladino](https://github.com/subnetmarco)*
+- [API & Microservices Management with Kong](https://www.youtube.com/watch?v=S6CeWL2qvl4) by *[Ahmad Nassri](https://github.com/ahmadnassri)*
 
 ### Slides
 
