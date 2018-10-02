@@ -92,6 +92,7 @@
 ### Slides
 
 - [Introduction to Kong API Gateway](https://www.slideshare.net/spawnrider/introduction-to-kong-api-gateway) by *[Yohann Ciurlik](https://github.com/spawnrider)*
+- [Developing a user-friendly OpenResty](https://www.slideshare.net/ThibaultCharbonnier/developing-a-userfriendly-openresty-application) by *[Thibault Charbonnier](https://github.com/thibaultcha)*
 
 ### Blogs
 
