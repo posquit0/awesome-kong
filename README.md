@@ -36,6 +36,7 @@
   * [Articles](#articles)
   * [Books](#books)
   * [Videos](#videos)
+  * [Slides](#slides)
   * [Blogs](#blogs)
   * [Community](#community)
 
@@ -87,6 +88,10 @@
 - [Microservices Orchestration with Kong, Galileo & Gelato](https://www.youtube.com/watch?v=brsIQgafg-c) *by Ahmad Nassri*
 - [API Gateway Pattern & Kong in a Microservices World](https://www.youtube.com/watch?v=OUUiS28hZuw) *by Marco Palladino*
 - [API & Microservices Management with Kong](https://www.youtube.com/watch?v=S6CeWL2qvl4) *by Ahmad Nassri*
+
+### Slides
+
+- [Introduction to Kong API Gateway](https://www.slideshare.net/spawnrider/introduction-to-kong-api-gateway) by *[Yohann Ciurlik](https://github.com/spawnrider)*
 
 ### Blogs
 
