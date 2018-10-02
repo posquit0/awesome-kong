@@ -90,6 +90,7 @@
 - [`#kong` on Freenode](http://webchat.freenode.net/?channels=kong)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/kong)
 - [Meetup](https://www.meetup.com/topics/kong/all/)
+- [Kong Community Calls](https://docs.google.com/document/d/1heIynPTVcHn13BXMJO0KiOr8bTmbhzVxJe5yajp4Xz4)
 
 
 ## Self Promotion
