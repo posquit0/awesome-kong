@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/posquit0/awesome-kong" title="Awesome Kong">
-    <img width="250" src="media/kong-combination-mark-colors.svg" alt="Awesome Kong">
+    <img width="500" src="media/kong-combination-mark-colors.svg" alt="Awesome Kong">
   </a>
   <br />
   <h1>Awesome Kong</h1>
