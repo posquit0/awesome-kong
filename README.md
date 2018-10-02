@@ -26,6 +26,10 @@
 
 ## Contents
 
+* [Tools](#tools)
+  * [Distributions](#distributions)
+  * [GUI](#gui)
+  * [Configuration](#configuration)
 * [Custom Plugins](#custom-plugins)
   * [Auth Plugins](#auth-plugins)
 * [Resources](#resources)
@@ -33,9 +37,30 @@
   * [Books](#books)
   * [Videos](#videos)
   * [Blogs](#blogs)
-  * [Distributions](#distributions)
-  * [Tools](#tools)
   * [Community](#community)
+
+
+## Tools
+
+### Distributions
+
+- [Homebrew](https://github.com/Kong/homebrew-kong) - Homebrew Formula for Kong
+- [Vagrant](https://github.com/Kong/kong-vagrant) - Vagrantfile for provisioning a development ready environment for Kong
+- [Docker](https://github.com/Kong/docker-kong) - Docker distribution for Kong
+- [Kubernetes](https://github.com/Kong/kong-dist-kubernetes) - Kubernetes managed Kong cluster
+- [Kubernetes Ingress Controller](https://github.com/Kong/kubernetes-ingress-controller) - Use Kong for Kubernetes Ingress
+- [AWS Cloudformation](https://github.com/Kong/kong-dist-cloudformation) - This CloudFormation template helps you model and set up Kong's resources in AWS easily
+- [Heroku](https://github.com/heroku/heroku-kong) - Deploy Kong Community Edition clusters to Heroku Common Runtime and Private Spaces using the Kong buildpack
+
+### GUI
+
+- [Konga](https://github.com/pantsel/konga) - More than just another GUI to Kong Admin API
+- [Kong Dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
+
+### Configuration
+
+- [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) - The Kong Terraform Provider tested against real Kong
+- [Kongfig](https://github.com/mybuilder/kongfig) - Declarative configuration for Kong
 
 
 ## Custom Plugins
@@ -66,23 +91,6 @@
 ### Blogs
 
 - [Kong Blog](https://konghq.com/blog/)
-
-### Distributions
-
-- [Homebrew](https://github.com/Kong/homebrew-kong) - Homebrew Formula for Kong
-- [Vagrant](https://github.com/Kong/kong-vagrant) - Vagrantfile for provisioning a development ready environment for Kong
-- [Docker](https://github.com/Kong/docker-kong) - Docker distribution for Kong
-- [Kubernetes](https://github.com/Kong/kong-dist-kubernetes) - Kubernetes managed Kong cluster
-- [Kubernetes Ingress Controller](https://github.com/Kong/kubernetes-ingress-controller) - Use Kong for Kubernetes Ingress
-- [AWS Cloudformation](https://github.com/Kong/kong-dist-cloudformation) - This CloudFormation template helps you model and set up Kong's resources in AWS easily
-- [Heroku](https://github.com/heroku/heroku-kong) - Deploy Kong Community Edition clusters to Heroku Common Runtime and Private Spaces using the Kong buildpack
-
-### Tools
-
-- [Konga](https://github.com/pantsel/konga) - More than just another GUI to Kong Admin API
-- [Kong Dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
-- [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) - The Kong Terraform Provider tested against real Kong
-- [Kongfig](https://github.com/mybuilder/kongfig) - Declarative configuration for Kong
 
 ### Community
 
