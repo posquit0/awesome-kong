@@ -92,8 +92,10 @@
 ### Slides
 
 - [Introduction to Kong API Gateway](https://www.slideshare.net/spawnrider/introduction-to-kong-api-gateway) by *[Yohann Ciurlik](https://github.com/spawnrider)*
-- [Developing a user-friendly OpenResty](https://www.slideshare.net/ThibaultCharbonnier/developing-a-userfriendly-openresty-application) by *[Thibault Charbonnier](https://github.com/thibaultcha)*
 - [Gatekeeper: API gateway](https://www.slideshare.net/ChengHuiWeng/gatekeeper-api-gateway) by *[ChengHui Weng](https://github.com/snowmantw)*
+- [Developing a user-friendly OpenResty](https://www.slideshare.net/ThibaultCharbonnier/developing-a-userfriendly-openresty-application) by *[Thibault Charbonnier](https://github.com/thibaultcha)*
+- [A Cassandra driver from and for the Lua community](https://www.slideshare.net/ThibaultCharbonnier/a-cassandra-driver-from-and-for-the-lua-community) by *[Thibault Charbonnier](https://github.com/thibaultcha)*
+- [A Kong retrospective: from 0.10 to 0.13](https://www.slideshare.net/ThibaultCharbonnier/a-kong-retrospective-from-010-to-013) by *[Thibault Charbonnier](https://github.com/thibaultcha)*
 
 ### Blogs
 
