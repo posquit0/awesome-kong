@@ -62,6 +62,7 @@
 
 - [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) - The Kong Terraform Provider tested against real Kong
 - [Kongfig](https://github.com/mybuilder/kongfig) - Declarative configuration for Kong
+- [Ansible Kong](https://github.com/wunzeco/ansible-kong) - Installs and Configures Kong with Ansible
 
 
 ## Custom Plugins
