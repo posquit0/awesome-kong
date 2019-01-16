@@ -61,6 +61,7 @@
 ### Configuration
 
 - [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) - The Kong Terraform Provider tested against real Kong
+- [decK](https://github.com/hbagdi/deck) - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
 - [Kongfig](https://github.com/mybuilder/kongfig) - Declarative configuration for Kong
 - [Ansible Kong](https://github.com/wunzeco/ansible-kong) - Installs and Configures Kong with Ansible
 
